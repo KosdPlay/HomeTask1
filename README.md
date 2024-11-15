@@ -13,7 +13,7 @@
 1) Hardware
 2) Machine Language
 3) Assembly Language
-4) High Level Language (C, C#, C++, Python, Java, JavaScript)
+4) High Level Language (C, C#, C++, Python, Java, JavaScript, Ruby)
 ## Типы языков программирования
 1) Структурные
 2) Процедурные
